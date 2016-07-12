@@ -1,9 +1,3 @@
-[submodule "inc/bootstrap"]
-	path = inc/bootstrap
-	url = https://github.com/twbs/bootstrap.git
-[submodule "inc/sassphp"]
-	path = inc/sassphp
-	url = https://github.com/sensational/sassphp.git
 [submodule "inc/scssphp"]
 	path = inc/scssphp
 	url = https://github.com/leafo/scssphp.git
